@@ -1,1 +1,3 @@
 # desktop_sorter
+
+.idea
