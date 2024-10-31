@@ -20,6 +20,6 @@ This program is a file organizer with a Tkinter GUI that sorts files in a specif
 
 ## Screenshot
 
-![File Organizer Screenshot](path/to/your/screenshot.png)
+![File Organizer Screenshot](https://github.com/SimeonZhelinski/desktop_sorter/blob/main/sorter_GUI.png)
 
 Enhance productivity by efficiently organizing files based on type.
