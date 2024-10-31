@@ -2,7 +2,7 @@ import shutil
 from datetime import datetime
 from pathlib import Path
 
-path = Path(r"C:/Users/Simo_ROG/Desktop/Sorter_Dir/")
+path = Path(r"")
 
 file_type_folders = {
     "-=Images Folder=-": ["jpg", "jpeg", "png", "gif", "bmp", "tif", "jxr"],
