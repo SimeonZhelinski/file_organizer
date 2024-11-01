@@ -7,6 +7,7 @@ from tkinter import filedialog, messagebox, scrolledtext
 file_type_folders = {
     "-=Images Folder=-": ["jpg", "jpeg", "png", "gif", "bmp", "tif", "jxr"],
     "-=Text Documents Folder=-": ["txt", "doc", "docx", "odt", "rtf"],
+    "-=Presentations Folder": [".ppt", ".pptx", ".odp", ".pps", ".ppsx", ".pot", ".potx"],
     "-=Cad_Plot Folder=-": ["plt", "dwg", "dxf"],
     "-=PDFs Folder=-": ["pdf"],
     "-=Ebooks Folder=-": ["epub", "mobi", "azw", "azw3", "ibooks", "fb2", "lit"],
